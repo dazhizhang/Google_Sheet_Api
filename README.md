@@ -3,3 +3,6 @@
 Jave quick start is here : 
 
 https://developers.google.com/sheets/api/quickstart/java?pli=1
+
+Gradle configure
+build.gradle file does not exist after installation, need to initiate one. The origianl file build.gradle.kts won’t work.
